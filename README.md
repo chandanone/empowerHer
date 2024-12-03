@@ -1,5 +1,6 @@
 # empowerHer
 House Wife Management Application
+note - add family doctor -  can see report, prescription, diet plan, nutirion, motherhood plan
 
 1. Vegetables Prepared
     - Types of vegetables (checkboxes)
